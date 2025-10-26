@@ -24,17 +24,17 @@
 - Deve ter um nome globalmente exclusivo.
 
   <img width="510" height="353" alt="Criar-Armazenamento1" src="https://github.com/user-attachments/assets/4b2a883e-11ee-4bd1-970b-4d096538a498" />
-
-
+  
 - Fornecer acesso à Internet em todo mundo.
+
 
 - Determinar os serviços de armazenamento e as opções de redundância.
 
-   <img width="438" height="219" alt="Redudancia1" src="https://github.com/user-attachments/assets/5fa8d542-8a15-4eb6-a199-3ee2cffb4873" />
+    <img width="438" height="219" alt="Redudancia1" src="https://github.com/user-attachments/assets/5fa8d542-8a15-4eb6-a199-3ee2cffb4873" />  <br>
 
-   >*Quando eu vou configurar um storage account, eu preciso configurar a redundância.*
-<br>
-
+    >*Quando eu vou configurar um storage account, eu preciso configurar a redundância.*
+    
+    <br>
 
 ## Redundância de Armazenamento
 
@@ -57,10 +57,15 @@
  - O GZRS usa o modelo de cópia do ZRS e cria uma cópia na região par.
 
    <img width="617" height="439" alt="LRS-ZRS1" src="https://github.com/user-attachments/assets/5a1539ef-1cc0-48b1-87cc-a447975f5bad" />
+<br>
 
+## Blob do Azure
+   Otimizado para o armazenamento de quantidades massivas de **<ins>dados não estruturados</ins>**, como texto ou dados binários.
+          <img width="339" height="279" alt="Blob1" src="https://github.com/user-attachments/assets/1e66134c-e55c-4cfb-a6fe-7ebfc50bef99" />
+<br>
 
-
-
+## Blob do Azure
+   Otimizado para o armazenamento de quantidades massivas de **<ins>dados não estruturados</ins>**, como texto ou dados binários.
 
 
 
