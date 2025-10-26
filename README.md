@@ -37,8 +37,9 @@
     <br>
 
 ## Redundância de Armazenamento
-
-   <img width="741" height="325" alt="config-redundancia1" src="https://github.com/user-attachments/assets/91509bb4-0de2-4a04-a5eb-88a38bbfbdf0" />
+<div align="center">
+<img width="741" height="325" alt="config-redundancia1" src="https://github.com/user-attachments/assets/91509bb4-0de2-4a04-a5eb-88a38bbfbdf0" />
+</div>
 
  ### LRS
  - O LRS vai fazer 3 cópias do meu arquivo e manter em um único Datacenter.
@@ -55,16 +56,21 @@
 
  ### GZRS
  - O GZRS usa o modelo de cópia do ZRS e cria uma cópia na região par.
-
-   <img width="617" height="439" alt="LRS-ZRS1" src="https://github.com/user-attachments/assets/5a1539ef-1cc0-48b1-87cc-a447975f5bad" />
+  <div align="center">
+  <img width="617" height="439" alt="LRS-ZRS1" src="https://github.com/user-attachments/assets/5a1539ef-1cc0-48b1-87cc-a447975f5bad" />
+  </div>
+  
 <br>
 
 ## Blob do Azure
    Otimizado para o armazenamento de quantidades massivas de **<ins>dados não estruturados</ins>**, como texto ou dados binários.
-          <img width="339" height="279" alt="Blob1" src="https://github.com/user-attachments/assets/1e66134c-e55c-4cfb-a6fe-7ebfc50bef99" />
-<br>
+   <div align="center">
+    
+   <img width="399" height="329" alt="Blob1" src="https://github.com/user-attachments/assets/1e66134c-e55c-4cfb-a6fe-7ebfc50bef99" />
+   
+   </div>
 
-## Blob do Azure
+## ABCSD
    Otimizado para o armazenamento de quantidades massivas de **<ins>dados não estruturados</ins>**, como texto ou dados binários.
 
 
