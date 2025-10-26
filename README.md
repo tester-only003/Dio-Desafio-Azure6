@@ -57,7 +57,7 @@
  ### GZRS
  - O GZRS usa o modelo de cópia do ZRS e cria uma cópia na região par.
   <div align="center">
-  <img width="617" height="439" alt="LRS-ZRS1" src="https://github.com/user-attachments/assets/5a1539ef-1cc0-48b1-87cc-a447975f5bad" />
+  <img width="517" height="439" alt="LRS-ZRS1" src="https://github.com/user-attachments/assets/5a1539ef-1cc0-48b1-87cc-a447975f5bad" />
   </div>
   
 <br>
@@ -126,14 +126,67 @@
   ### Esporádico
    - Será cobrado menos pelo repositório (armazenamento) e mais pela consulta. <br>
 
+  ### Frio
+   - Como os dados serão armazenados por mais tempo, será cobrado menos pelo armazenamento e mais (comparado ao esporádico) pela consulta. <br>
+
+  ### Arquivo Morto
+   - Direcionado para camadas de backup (arquivos ficam armazenados por mais tempo). Maior valor cobrado pela consulta em comparação com a camada frio.
+   - É cobrado o restore do arquivo (quanto maior o arquivo maior o valor do restore).
+ <br>
 
 
+## Migrações para o Azure
+<br> 
+   <div align="center">
+   <img width="605" height="260" alt="Migracoes-Azure1" src="https://github.com/user-attachments/assets/e0a29c4b-6a09-454e-906a-152d7032139c" />
+   </div> <br>
+
+   - Plataforma de migração unificada.
+   - Intervalo de ferramentas integradas e autônomas.
+   - Avaliação e migração.
+ <br>
 
 
+## Azure Data Box
+<br> 
+   <div align="center">
+   <img width="557" height="195" alt="Azure-DataBox1" src="https://github.com/user-attachments/assets/1fc2bd66-cdea-4d5e-bdb6-48ce4f8e5d65" />
+   </div> <br>
+
+- Serviço de migração física.
+- Ajuda a transferir volumes muito altos de dados. É possível levar até 80TB de dados.
+  - Mova os backups de recuperação de desastre para o Azure.
+  - Proteja seus dados em uma caixa robusta durante o trânsito.
+  - Migre dados do Azure para conformidade ou necessidades regulatórias.
+  - Migre dados para o Azure de locais remotos com conectividade limitada ou sem conectividade.
+<br> 
+   <div align="center">
+   <img width="631" height="399" alt="Azure-DataBox2" src="https://github.com/user-attachments/assets/001e4ece-ebae-401b-a9f0-a6300151496d" />
+   </div> <br>
+- Utilitário de linha de comando.
+- Copiar blobs ou arquivos de (ou para) sua conta de armazenamento.
+- Sincronização em uma direção.
+
+ 
 
 
+## Opções de gerenciamento de arquivos
+<br> <br> 
 
+### AzCopy
+   <div align="center">
+   <img width="491" height="308" alt="AzCopy1" src="https://github.com/user-attachments/assets/2bc118a3-f913-4f1f-ada5-a3b6132f1893" />
+   </div> <br>
 
+<div align="center">
+      #Questão de Prova <br>
+      - O AzCopy pode ser usado em plataformas Windows, Linux e MacOS.
+</div>
+<br>
+
+### Gerenciador de armazenamento do Azure
+- Interface gráfica do usuário (de modo semelhante ao Windows Explorer).
+- Compatível com o Windows, MacOS e Linux.
 
 
 
