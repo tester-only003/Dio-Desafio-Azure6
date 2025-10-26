@@ -187,6 +187,34 @@
 ### Gerenciador de armazenamento do Azure
 - Interface gráfica do usuário (de modo semelhante ao Windows Explorer).
 - Compatível com o Windows, MacOS e Linux.
+<br>
+
+### Sincronização de Arquivos do Azure
+  - Sincroniza os arquivos do Azure e locais de forma bidirecional.
+  - A camada de nuvem mantém os arquivos acessados com frequência no local, enquanto libera espaço.
+Exemplo: os arquivos que não estão sendo acessados no servidor local a mais de 30 dias, podem ser movidos para a nuvem (liberando armazenamento no servidor local).
+<br>
+
+## Armazenamento - Revisão
+  - Comparar os serviços de armazenamento do Azure.
+  - Opções de migração, incluindo as Migrações para Azure e o Azure Data Box.
+  - Descrever as camadas de armazenamento, opções de redundância, opções de conta de armazenamento e os tipos de armazenamento.
+<br>
+
+<br>
+
+### Documentação
+[https://learn.microsoft.com/training/modules/describe-azure-storage-services/2-accounts](https://learn.microsoft.com/training/modules/describe-azure-storage-services/2-accounts)
+
+[https://learn.microsoft.com/training/modules/describe-azure-storage-services/4-describe-azure-storage-services](https://learn.microsoft.com/training/modules/describe-azure-storage-services/4-describe-azure-storage-services)
+
+[https://learn.microsoft.com/training/modules/describe-azure-storage-services/3-redundancy](https://learn.microsoft.com/training/modules/describe-azure-storage-services/3-redundancy)
+
+[https://learn.microsoft.com/training/modules/describe-azure-storage-services/6-identify-azure-data-migration-options](https://learn.microsoft.com/training/modules/describe-azure-storage-services/6-identify-azure-data-migration-options)
+
+
+
+
 
 
 
